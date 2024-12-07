@@ -12,10 +12,10 @@ a{
 }
 h1{
     color: #4B0082;
-    text-align: center
+    text-align: center;
 }
 footer p{
-    background-color: #CD853F
+    background-color: #CD853F;
 }
 nav a {
     margin: 20px;
@@ -35,10 +35,10 @@ nav a {
     background-color: #008B8B;
 }
 .z{
-    color: #3CB371
+    color: #3CB371;
 }
 .l{
-    color: #48D1CC
+    color: #48D1CC;
 }
 .f{
     border: blue solid 3px;
